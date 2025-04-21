@@ -70,7 +70,7 @@ ssi-dids = { path = "./crates/dids", version = "0.2.1", default-features = false
 # crypto
 digest = "0.10"
 k256 = "0.13.1"
-p256 = "0.13.2"
+p256 = "0.10"
 p384 = "0.13.0"
 ed25519-dalek = "2.0"
 blake2 = "0.10"
